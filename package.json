@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@apollo/client": "^3.8.3",
+    "@apollo/client": "^3.8.6",
     "@contentful/live-preview": "^2.9.6",
     "@livekit/components-react": "^1.1.8",
     "@livekit/components-styles": "^1.0.6",
